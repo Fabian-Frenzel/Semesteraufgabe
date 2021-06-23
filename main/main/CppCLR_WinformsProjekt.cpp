@@ -33,7 +33,9 @@ int main() {																											//von VS17
 	Application::EnableVisualStyles();																					//von VS17
 	Application::SetCompatibleTextRenderingDefault(false);																//von VS17
 	Application::Run(gcnew CppCLR_WinformsProjekt::Form1()); // "CppCLR_WinformsProjekt" noch anpassen					//von VS17
-		//Variablendeklarationen
+
+
+	//Variablendeklarationen
 	int auswahl, c = 0, a = 1;
 	char buf[10];
 	Daten Datensatz[1000];
