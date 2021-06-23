@@ -10,7 +10,10 @@
 //    return 0;
 //}
 //______________________________________________________________________________________________________________________________
-
+//Hauptprogramm (Quelle) zum Programm 'Literaturverwaltung'
+//Geschrieben von Roman Rohlfs im SoSe 2020 im Modul Informatik 1
+//Visual Studio 2017
+//erweitert von Leano, Niko, Nils, Roman, Jan und Fabian
 
 #include "stdafx.h"																										//von VS17
 #include "Form1.h"																										//von VS17
