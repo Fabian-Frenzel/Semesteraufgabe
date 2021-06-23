@@ -1,2 +1,0 @@
-# Semesteraufgabe
-als CLR projekt
